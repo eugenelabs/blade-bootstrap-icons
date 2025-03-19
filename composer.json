@@ -1,5 +1,5 @@
 {
-    "name": "davidhsianturi/blade-bootstrap-icons",
+    "name": "eugenelabs/blade-bootstrap-icons",
     "description": "A package to easily make use of Bootstrap Icons in your Laravel Blade views.",
     "keywords": [
         "Blade",
@@ -10,24 +10,22 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "David H. Sianturi",
-            "email": "davidhsianturi@gmail.com",
-            "homepage": "https://davidhsianturi.com",
-            "role": "Developer"
+            "name": "Cristhian Hernandez",
+            "email": "cristhian@eugenelabs.com"
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^8.3",
         "blade-ui-kit/blade-icons": "^1.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
+        "illuminate/support": "^11.0|^12.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0",
-        "phpunit/phpunit": "^9.0|^10.5"
+        "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0|^10.1",
+        "phpunit/phpunit": "^9.0|^10.5|^11.5"
     },
     "autoload": {
         "psr-4": {
-            "Davidhsianturi\\BladeBootstrapIcons\\": "src"
+            "Eugenelabs\\BladeBootstrapIcons\\": "src"
         }
     },
     "autoload-dev": {

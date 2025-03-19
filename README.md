@@ -1,5 +1,7 @@
 # Blade Bootstrap Icons
 
+> This was forked to bump it to newer Laravel versions.
+
 <a href="https://github.com/davidhsianturi/blade-bootstrap-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/davidhsianturi/blade-bootstrap-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
@@ -16,8 +18,7 @@ For a full list of available icons see [the SVG directory](resources/svg) or pre
 
 ## Requirements
 
-- PHP 7.4 or higher
-- Laravel 8.0 or higher
+- Laravel 8.3 or higher
 
 ## Installation
 
